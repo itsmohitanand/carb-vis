@@ -1,0 +1,4 @@
+name = "carbvis"
+uuid = "c63195ca-68cf-48ca-ab4c-6660e4fa996c"
+authors = ["anand <mohit.anand@ufz.de>"]
+version = "0.1.0"
